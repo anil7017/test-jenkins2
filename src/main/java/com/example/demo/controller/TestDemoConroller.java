@@ -11,6 +11,6 @@ public class TestDemoConroller {
 		
 		System.out.println("test demo");
 		
-		return "anil well done ";
+		return "lipsa patra ";
 	}
 }
