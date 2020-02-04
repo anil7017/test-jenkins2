@@ -11,6 +11,6 @@ public class TestDemoConroller {
 		
 		System.out.println("test demo");
 		
-		return "lipsa patra ";
+		return "lipsa patra 123";
 	}
 }
